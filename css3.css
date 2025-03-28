@@ -5,6 +5,8 @@ margin:0px;
 text-align:center;
 font-family:Arial;
 color:white;
+z-index:30;
+position:relative;
 }
 
 .center{
@@ -41,14 +43,10 @@ width:265px;
 height:110px;
 background-image:url("images/play1.png");
 background-size:100% 100%;
-z-index:30;
-position:relative;
 }
 #play1:hover{
 background-image:url("images/play1_hover.png");
 background-size:100% 100%;
-z-index:30;
-position:relative;
 }
 
 
