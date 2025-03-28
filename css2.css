@@ -10,10 +10,7 @@ color:white;
 .center{
 margin:0px auto;
 width:400px;
-z-index:30;
-position:relative;
 }
-
 
 .high{
 height:100%;

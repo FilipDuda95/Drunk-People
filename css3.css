@@ -5,14 +5,11 @@ margin:0px;
 text-align:center;
 font-family:Arial;
 color:white;
-
 }
 
 .center{
 margin:0px auto;
 width:270px;
-z-index:30;
-position:relative;
 }
 
 .high{
