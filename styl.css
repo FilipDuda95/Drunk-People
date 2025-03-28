@@ -1,0 +1,133 @@
+  body{
+  margin:0px;
+  padding:0px;
+  font-family:arial;
+  background-image:url(images/pozadi/1.png);
+  }
+  a{
+  text-decoration:none;
+  }
+  
+  #drunkpeople{
+  width:100%;
+  height:100%;
+  padding:0px;
+  margin:0px;
+  }
+   
+  .background{ 
+   width:100%;
+   height:100%;}
+  #pozadi{
+  z-index:-33;
+   position:fixed;
+   top:0px;
+   }
+     
+  #skore{
+  position:absolute;
+  z-index:10;
+  width:100%;
+  }
+  .tlacitka{
+  z-index:7;
+  position:fixed;
+  right:10%;
+  width:13%;
+  height:13%;
+  top:0px;
+  }
+  .stin{
+  position:absolute;
+  top:1%;
+  left:4%;
+  z-index:-1;
+  background-color:black;
+  filter: alpha(opacity=50);
+	-moz-opacity: 0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+  width:100%;
+  height:100%;
+  }
+  
+  
+   
+  #ovladani{
+  z-index:8;
+  position:fixed;
+  bottom:10%;
+  left:10%;
+  width:80%;
+  height:20%;
+  }
+    
+  #ovladani2{
+  z-index:7;
+  position:fixed;
+  bottom:9%;
+  left:11%;
+  width:80%;
+  height:20%;
+  }
+  
+  #upozorneni{
+  text-align:center;
+  position:absolute;
+  top:50%;
+  left:5%;
+  width:90%;
+  height:50%;
+  color:yellow;
+  text-decoration:none;
+  text-shadow:black 3px 3px 3px;
+  font-size:1.7em;
+  }
+   
+  #ukol{
+  width:30%;
+  height:100%;
+  float:left;
+  }
+  #stin1{
+  background-color:black;
+  filter: alpha(opacity=50);
+	-moz-opacity: 0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+  width:30%;
+  height:100%;
+  float:left;
+  }
+  .hrac{
+  margin-left:5%;
+  margin-right:5%;
+  width:30%;
+  height:100%;
+  float:left;
+  }
+  .hrac h1{
+  margin-top:-3%;
+  font-weight:;
+  text-align: center;
+  }
+  
+  #drink{
+  width:30%;
+  height:100%;
+  float:left;
+  }
+   #stin2{
+  background-color:black;
+  filter: alpha(opacity=50);
+	-moz-opacity: 0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+  width:30%;
+  height:100%;
+  float:left;
+  }
+  .zahlavi{
+   clear: both;
+   text-align:center;
+  }

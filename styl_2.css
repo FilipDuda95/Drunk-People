@@ -1,0 +1,140 @@
+  body{
+  margin:0px;
+  padding:0px;
+  font-family:arial;
+  background-color:black;
+  }
+  h1{
+  color:#FFE401;
+  font-size:1.2em;
+  }
+  
+  a{
+  text-decoration:none;
+  }
+  
+  #drunkpeople{
+  width:100%;
+  height:100%;
+  padding:0px;
+  margin:0px;
+  }
+   
+  .background{ 
+   width:100%;
+   height:100%;
+   }
+  #pozadi{
+  z-index:-33;
+   position:fixed;
+  width:100%;
+  height:100%;
+   top:0px;
+   }
+  #skore{
+  position:absolute;
+  z-index:10;
+  width:100%;
+  }
+  .tlacitka{
+  z-index:7;
+  position:fixed;
+  right:10%;
+  width:13%;
+  height:13%;
+  top:0px;
+  }
+  #dalsi{
+  z-index:10;
+  width:100%;
+  }
+  .stin{
+  position:relative;
+  width:100%;
+  height:60%;
+  top:20%;
+  }
+  #tlacitko1{
+  z-index:7;
+  position:fixed;
+  width:13%;
+  height:30%;
+  bottom:0%;
+  right:10%;
+  }
+  #tlacitko2{
+  z-index:7;
+  position:fixed;
+  width:13%;
+  height:30%;
+  bottom:0%;
+  left:10%;}
+  #zmena{
+  z-index:10;
+  width:100%;
+  }
+     
+  #zpet{
+  z-index:7;
+  position:fixed;
+  width:13%;
+  right:10%;
+  }
+  
+   
+  #ovladani{
+  position:fixed;
+  bottom:10%;
+  left:10%;
+  width:80%;
+  height:20%;
+  }
+  #upozorneni{
+  z-index:4;
+  filter: alpha(opacity=50);
+	-moz-opacity: 0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+  background-color:black;
+  text-align:center;
+  position:fixed;
+  padding-top:10%;
+  top:0%;
+  left:5%;
+  width:90%;
+  height:100%;
+  color:white;
+  text-decoration:none;
+  font-size:1.7em;
+  }
+  #upozorneni2{
+  z-index:5;
+  text-align:center;
+  position:absolute;
+  padding-top:10%;
+  top:0%;
+  left:5%;
+  width:90%;
+  height:auto;
+  color:white;
+  text-decoration:none;
+  font-size:1.7em;
+  }
+  #sloupec1{
+  position:relative;
+  width:60%;
+  float:left;
+  left:20%;
+  }
+  #sloupec2{
+  position:relative;
+  width:60%;
+  float:left;
+  left:20%;
+  }
+
+  #meme{
+  width:70%;
+  } 
+
+                                                                                          

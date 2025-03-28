@@ -1,0 +1,67 @@
+
+body{
+padding:0px;
+margin:0px;
+text-align:center;
+font-family:Arial;
+color:white;
+}
+
+.center{
+margin:0px auto;
+width:270px;
+}
+
+.high{
+height:100%;
+width:100%;
+}
+.cervene{
+color:rgb(128,5,5);
+}
+
+.delic{
+height:2px;
+background-color:silver;
+}
+
+
+#header{
+padding:40px 0px;
+width:100%;
+background-color:yellow;
+background-image:url("images/bck.jpg");
+background-size:100% 100%;
+}
+
+
+#play1{
+margin-bottom:60px;
+width:265px;
+height:110px;
+background-image:url("images/play1.png");
+background-size:100% 100%;
+}
+#play1:hover{
+background-image:url("images/play1_hover.png");
+background-size:100% 100%;
+}
+
+
+#paticka {
+padding:20px 0px;
+color:black;
+width:100%;
+}
+#play2{
+margin-bottom:60px;
+width:150px;
+height:50px;
+background-image:url("images/play2.png");
+background-size:100% 100%;
+}
+
+#play2:hover{
+background-image:url("images/play2_hover.png");
+background-size:100% 100%;
+}
